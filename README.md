@@ -1,3 +1,4 @@
+# Face Recognition Attendance System
 This project is a Face Recognition Attendance System developed using Python Flask. It allows users to perform various functions related to attendance management, including taking attendance using face recognition, viewing attendance records by date, sending automatic emails to parents for absent students, and searching attendance records for the last one month.
 
 
