@@ -14,12 +14,9 @@ This project is a Face Recognition Attendance System developed using Python Flas
    ```bash
    git clone https://github.com/yourusername/face-recognition-attendance.git
 Navigate to the project directory:
-bash
-Copy code
-cd face-recognition-attendance
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Make sure you have Python installed on your machine. You can download it from here.
+
+bash Copy code cd face-recognition-attendance Install the required dependencies:
+
+bash Copy code pip install -r requirements.txt Make sure you have Python installed on your machine. You can download it from here.
+
 Ensure you have a compatible webcam connected to your system for face recognition functionality.
